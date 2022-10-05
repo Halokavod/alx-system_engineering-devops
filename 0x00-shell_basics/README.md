@@ -4,4 +4,5 @@
 3.This script displays current directory contents in long format
 4.This Script displays hidden files
 5.This script displays current directory contents
-6.This script creates a directory in the /tmp/ directory 
+6.This script creates a directory in the /tmp/ directory
+7.This script moves a file 
