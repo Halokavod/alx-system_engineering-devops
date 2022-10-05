@@ -3,4 +3,5 @@
 2.This Script changes the working directory to the home directory
 3.This script displays current directory contents in long format
 4.This Script displays hidden files
-5.This script displays current directory contents 
+5.This script displays current directory contents
+6.This script creates a directory in the /tmp/ directory 
