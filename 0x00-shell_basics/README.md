@@ -11,3 +11,4 @@
 10.This script changes the working directory to the previous one 
 11.This script list all files from different directories
 12.This script reads a file named iamfile
+13.This script creates a symbolic link name _ls_
