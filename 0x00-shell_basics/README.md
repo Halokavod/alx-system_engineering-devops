@@ -10,3 +10,4 @@
 9.This script is used to delete a directory
 10.This script changes the working directory to the previous one 
 11.This script list all files from different directories
+12.This script reads a file named iamfile
