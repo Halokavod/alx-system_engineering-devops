@@ -4,4 +4,5 @@
 3.This script changes the owner of the file hello to user
 4.This script creates an empty file called hello
 5.This script executes the file hello
-6.This script adds permissions to multiple userss well as the file hello 
+6.This script adds permissions to multiple users well as the file hello
+7.This script adds execution permision 
