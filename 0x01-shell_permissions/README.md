@@ -10,4 +10,5 @@
 9.This script sets the mode of the file hello
 10.This script sets the modeexactly as the file hello
 11.This script executes permissions to all subdirectories
-12.This script creates a directory with 751 permissions working 
+12.This script creates a directory with 751 permissions working
+13.This script changes the group owner to school 
