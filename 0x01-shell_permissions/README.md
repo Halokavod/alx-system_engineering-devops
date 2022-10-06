@@ -7,4 +7,5 @@
 6.This script adds permissions to multiple users well as the file hello
 7.This script adds execution permision
 8.This script gives permissions to other users, with restrictios on group and owner
-9.This script sets the mode of the file hello 
+9.This script sets the mode of the file hello
+10.This script sets the modeexactly as the file hello 
