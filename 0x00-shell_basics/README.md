@@ -6,4 +6,5 @@
 5.This script displays current directory contents
 6.This script creates a directory in the /tmp/ directory
 7.This script moves a file
-8.This script is used to delete betty 
+8.This script is used to delete betty
+9.This script is used to delete a directory 
