@@ -8,4 +8,5 @@
 7.This script adds execution permision
 8.This script gives permissions to other users, with restrictios on group and owner
 9.This script sets the mode of the file hello
-10.This script sets the modeexactly as the file hello 
+10.This script sets the modeexactly as the file hello
+11.This script executes permissions to all subdirectories 
