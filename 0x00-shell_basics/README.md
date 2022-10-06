@@ -12,3 +12,4 @@
 11.This script list all files from different directories
 12.This script reads a file named iamfile
 13.This script creates a symbolic link name _ls_
+14.This script copies all html files to the parent directory
