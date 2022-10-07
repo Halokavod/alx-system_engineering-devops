@@ -13,4 +13,5 @@
 12.This script creates a directory with 751 permissions working
 13.This script changes the group owner to school
 14.This script changes the owner to vincent and the group owner to staff
-15.This script creates a symbolic link 
+15.This script creates a symbolic link
+16.This scriptchanges a file if it is owned by guillaume 
