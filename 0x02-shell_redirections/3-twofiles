@@ -1,1 +1,2 @@
-VimCrypt~03!„Ûpâöjâ²MÛ5V^P;íävlŞÎŞnu7	âÜı¡¯z"xhPq?#éú RŸ9ÙÌ§ 
+#!/bin/bash
+cat /etc/passwd /etc/hosts
