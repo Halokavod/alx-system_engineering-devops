@@ -8,3 +8,4 @@
 7.This script creates a duplicate of the file given in the task.
 8.This script writes into a file and creates the file if it doesnt't exist. 
 9.This script  duplicates the last line of the file iacta.
+10.This script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
