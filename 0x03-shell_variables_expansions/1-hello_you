@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %f="hello user" whoami
+whoami : print effective user id
