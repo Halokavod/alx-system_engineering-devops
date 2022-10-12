@@ -18,4 +18,5 @@
 18.Display all lines of the file starting with a letter.
 19.This script replaces all characters A and c from input to Z and e respectively.
 20.This script removes all letters c and C from input.
-21.This script reverse its input. 
+21.This script reverse its input.
+22.This script displays all users and their home directories, sorted by users. 
